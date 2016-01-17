@@ -1,0 +1,410 @@
+p_zendar|Zendar
+p_town_1|London
+p_town_2|Stockholm
+p_town_3|Paris
+p_town_4|Bordeaux
+p_town_5|Sevilla
+p_town_6|Naples
+p_town_7|Vienna
+p_town_8|Frankfurt
+p_town_9|Krakow
+p_town_10|Moscow
+p_town_11|Vinice
+p_town_12|Rome
+p_town_13|Algiers
+p_town_14|Tripoli
+p_town_15|UlanBato
+p_town_16|XiAn
+p_town_17|Yingtian
+p_town_18|Shuntian
+p_town_19|Istanbul
+p_town_20|Caro
+p_town_21|Jerusalem
+p_town_22|Baghdad
+p_town_23|Kyoto
+p_town_24|Dehli
+p_town_25|Kafa
+p_town_26|Astana
+p_town_27|Lisben
+p_town_28|Tenochtitlan
+p_town_29|Barcelona
+p_town_30|York
+p_town_31|Marseilles
+p_town_32|Oslo
+p_town_33|Vilnius
+p_town_34|lvbeike
+p_town_35|Ankara
+p_town_36|Alepo
+p_town_37|Smolensk
+p_town_38|Kabuer
+p_town_39|Chunpei
+p_town_40|Hansuwng
+p_town_41|Jingzhou
+p_town_42|Aksu
+p_town_43|Edinburg
+p_castle_1|Bominhan
+p_castle_2|Bristol
+p_castle_3|Dublin
+p_castle_4|Kar
+p_castle_5|Copenhagen
+p_castle_6|Flensburg
+p_castle_7|Goteborg
+p_castle_8|Rouen
+p_castle_9|Reon
+p_castle_10|Toulouse
+p_castle_11|Madrid
+p_castle_12|Volencia
+p_castle_13|Sihong
+p_castle_14|Milan
+p_castle_15|Palermo
+p_castle_16|Amsterdam
+p_castle_17|Florenca
+p_castle_18|Ragusa
+p_castle_19|Irakliom
+p_castle_20|Nicosia
+p_castle_21|Berne
+p_castle_22|Hamburg
+p_castle_23|Leipzig
+p_castle_24|Prague
+p_castle_25|Zagreb
+p_castle_26|Warsaw
+p_castle_27|Poznan
+p_castle_28|Kiev
+p_castle_29|Weryodi
+p_castle_30|Leref
+p_castle_31|Saratov
+p_castle_32|kazan
+p_castle_33|Perth
+p_castle_34|Athens
+p_castle_35|Bucharest
+p_castle_36|Miras
+p_castle_37|Nisia
+p_castle_38|Tabriz
+p_castle_39|Kaseri
+p_castle_40|Damascus
+p_castle_41|Trabzon
+p_castle_42|Thessaloniki
+p_castle_43|Dehran
+p_castle_44|Ryazan
+p_castle_45|Alsh abad
+p_castle_46|Isfahan
+p_castle_47|Kerman
+p_castle_48|Hohhot
+p_castle_49|Undurkhaan
+p_castle_50|Khovd
+p_castle_51|Kumul
+p_castle_52|Caganbugd
+p_castle_53|Chengdu
+p_castle_54|JiNan
+p_castle_55|Quanzhou
+p_castle_56|Changsha
+p_castle_57|Lanzhou
+p_castle_58|Taiyuan
+p_castle_59|Edo
+p_castle_60|Nagasaki
+p_castle_61|Tottori ken
+p_castle_62|Fez
+p_castle_63|Tunisia
+p_castle_64|Oran
+p_castle_65|Waco
+p_castle_66|Kiaha
+p_castle_67|Kentucky
+p_castle_68|Havana
+p_castle_69|Bortu
+p_castle_70|Marade
+p_castle_71|Yedkushile
+p_castle_72|Chandigarh
+p_castle_73|Jaipur
+p_castle_74|Capur
+p_castle_75|Mandalay
+p_castle_76|Qianjiang 
+p_castle_77|Ha Noi
+p_castle_78|Guangzhou
+p_castle_79|Pyongyang
+p_castle_80|Shuangchengwei
+p_castle_81|Sacahewei
+p_castle_82|Nuergandusi
+p_castle_83|Karaganda
+p_castle_84|Atero
+p_castle_85|Syvansto
+p_castle_86|Tollan
+p_castle_87|Tehuacan
+p_castle_88|Mictlan
+p_castle_89|Canpech
+p_castle_90|Tikal
+p_castle_91|Vera Cruz
+p_castle_92|Yasuer
+p_castle_93|Karilia
+p_castle_94|Sute
+p_castle_95|Dirong
+p_castle_96|Nelenburg
+p_castle_97|Roz
+p_castle_99|Chercase
+p_castle_100|Tartu
+p_castle_101|Abotin
+p_castle_102|Rode
+p_castle_103|Purishdina
+p_castle_104|Bansia
+p_castle_105|Alexandria
+p_castle_106|Alish
+p_castle_107|Wusizangdusi
+p_castle_108|Nanning
+p_castle_109|Liaodongdusi
+p_castle_110|Massawa
+p_castle_111|Makiltin
+p_castle_112|Sofala
+p_castle_113|Cape of Good Hope
+p_castle_114|Rugo
+p_castle_115|San Amaru
+p_castle_116|Barbados
+p_castle_117|JamestownF
+p_castle_118|Beotuck
+p_castle_119|Euler
+p_castle_120|Hassa
+p_castle_121|Aden
+p_castle_122|Muscat
+p_castle_123|Reykjavik
+p_castle_124|Brunei
+p_castle_125|Bahia
+p_castle_126|Dendy
+p_castle_127|Cumahi
+p_castle_128|Cabu
+p_castle_129|East Congo
+p_castle_130|Getagan
+p_castle_131|Maliujia
+p_castle_132|Hawaii
+p_castle_133|Cartagena
+p_castle_134|Huron
+p_castle_135|Attawapiskat
+p_village_1|Bradford
+p_village_2|Killarney
+p_village_3|Nottingham
+p_village_4|Dorchester
+p_village_5|Brighton
+p_village_6|Norwich
+p_village_7|Frederikshavn
+p_village_8|Rondo
+p_village_9|Buvran
+p_village_10|Royan
+p_village_11|Orleans
+p_village_12|Emer
+p_village_13|Evreux
+p_village_14|Reims
+p_village_15|Ryibelet
+p_village_16|Shapeshte
+p_village_17|Karlstad
+p_village_18|Kurgan
+p_village_19|Penza
+p_village_20|Vologda
+p_village_21|Bazeck
+p_village_22|Nizhniy Novgorod
+p_village_23|Valladolid
+p_village_24|Tereul
+p_village_25|Zaragoza
+p_village_26|Pagundur
+p_village_27|Siracusa
+p_village_28|Cosenza
+p_village_29|Bari
+p_village_30|Bologna
+p_village_31|Verona
+p_village_32|Udine
+p_village_33|Ruluns
+p_village_34|Ehlerdah
+p_village_35|Fearichen
+p_village_36|Siena
+p_village_37|Pescara
+p_village_38|Mainz
+p_village_39|Utrecht
+p_village_40|Saren
+p_village_41|Dugan
+p_village_42|Dirigh Aban
+p_village_43|Zagush
+p_village_44|Peshmi
+p_village_45|Bulugur
+p_village_46|Fedner
+p_village_47|Epeshe
+p_village_48|Veidar
+p_village_49|Tismirr
+p_village_50|Bergen
+p_village_51|Jelbegi
+p_village_52|Amashke
+p_village_53|Balanli
+p_village_54|Chide
+p_village_55|Tadsamesh
+p_village_56|Fenada
+p_village_57|Ningbo
+p_village_58|Hefei
+p_village_59|Yan'an
+p_village_60|Wuhai
+p_village_61|Aldelen
+p_village_62|Yancheng
+p_village_63|Guiyang
+p_village_64|Serindiar
+p_village_65|Dongfan
+p_village_66|Tokushima
+p_village_67|Nagoya
+p_village_68|Ibdeles
+p_village_69|Kwynn
+p_village_70|Dirigsene
+p_village_71|Tshibtin
+p_village_72|Elberl
+p_village_73|Malaga
+p_village_74|Ayyike
+p_village_75|Konosha
+p_village_76|Carpentras
+p_village_77|Trelleborg
+p_village_78|Castrez
+p_village_79|Volgograd
+p_village_80|Cahorz
+p_village_81|Aletai
+p_village_82|Ejina
+p_village_83|Zhangjiakou
+p_village_84|Saiyinshanda
+p_village_85|Qiaoba
+p_village_86|Buergan
+p_village_87|Bayanzuoer
+p_village_88|Shengyang
+p_village_89|Shanhaiguan
+p_village_90|Handan
+p_village_91|Linfen
+p_village_92|Caza
+p_village_93|riverland
+p_village_94|Hanzhong
+p_village_95|Suining
+p_village_96|Nanyang
+p_village_97|Sekhtem
+p_village_98|Mawiti
+p_village_99|Fishara
+p_village_100|Iqbayl
+p_village_101|Uzgha
+p_village_102|Fes
+p_village_103|Oujda
+p_village_104|Annaba
+p_village_105|Setif
+p_village_106|Sfax
+p_village_107|Madanin
+p_village_108|Mit Nun
+p_village_109|Tilimsal
+p_village_110|Rushdigh
+p_village_111|south camp
+p_village_112|middle camp
+p_village_113|north camp
+p_village_114|San Augustin
+p_village_115|Ciudad
+p_village_116|Nazare
+p_village_117|Guarda
+p_village_118|Amrim
+p_village_119|Jotpor
+p_village_120|Lecoan
+p_village_121|Anra Abad
+p_village_122|Langky
+p_village_123|Kinho
+p_village_124|Lanbrab
+p_village_125|Akita
+p_village_126|Kujang
+p_village_127|Daejeon
+p_village_128|Baicheng
+p_village_129|Haixi nvzhen
+p_village_130|Yeren nvzhen
+p_village_131|Rezcazgan
+p_village_132|Baprodar
+p_village_133|Simibara
+p_village_134|Tarta camp
+p_village_135|West river
+p_village_136|River camp
+p_village_137|Paquic
+p_village_138|Tixtia
+p_village_139|Taniguiecache
+p_village_140|Tecuantepec
+p_village_141|dock
+p_village_142|Uxmal
+p_village_143|Uxmal village
+p_village_144|Roge
+p_village_145|Sasari
+p_village_146|Molri
+p_village_147|Puroen
+p_village_148|Nishi
+p_village_149|Simira
+p_village_150|Radom
+p_village_151|Lutchic
+p_village_152|Lingshan
+p_village_153|Naquka
+p_village_154|Dali
+p_village_155|Misurat
+p_village_156|Bardijo
+p_village_157|Materu
+p_village_158|Akba
+p_village_159|Nalehan
+p_village_160|Yili
+p_village_161|Gosi
+p_village_162|Siorogens
+p_village_163|Aoben
+p_village_164|Lyrge
+p_village_165|Jartin
+p_village_166|Haiyang
+p_village_167|Barin
+p_village_168|Asil
+p_village_169|Dofal
+p_village_170|Tajura
+p_village_171|Mugudusu
+p_village_172|Masamiki
+p_village_173|Cape
+p_village_174|Cango
+p_village_175|Antigo
+p_village_176|San Tome
+p_village_177|Bowatan
+p_village_178|Tacamucock
+p_village_179|Bancalon
+p_village_180|Beidanian
+p_village_181|Greenland
+p_village_182|Surilan
+p_village_183|Calon
+p_village_184|Bate
+p_village_185|Oyo
+p_village_186|Jiugang
+p_village_187|Ramu
+p_village_188|Uganda
+p_village_189|Caragaz
+p_village_190|Crides
+p_village_191|Atcaki
+p_village_192|Hawaii island
+p_gate1|Hebua
+p_gate2|San Anna
+p_dungeon1|Spanish Manor
+p_dungeon2|Diaoyudao
+p_dungeon3|Bermuda
+p_dungeon4|Amazon camp
+p_dungeon5|The desert
+p_dungeon6|Madagascar camp
+p_dungeon7|Ceylon Pearlfishery
+p_dungeon8|Dongcang
+p_dungeon9|skycity
+p_dungeon10|Cossack's Storehouse
+p_dungeon11|HoaryArena
+p_salt_mine|Salt Mine
+p_four_ways_inn|Four Ways Inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Training Ground
+p_training_ground_1|Training Field
+p_training_ground_2|Training Field
+p_training_ground_3|Training Field
+p_training_ground_4|Training Field
+p_training_ground_5|Training Field
+p_manor_1|Manor
+p_steppe_bandit_spawn_point|the steppes
+p_taiga_bandit_spawn_point|the tundra
+p_forest_bandit_spawn_point|the forests
+p_mountain_bandit_spawn_point|the highlands
+p_sea_raider_spawn_point_1|the coast
+p_sea_raider_spawn_point_2|the coast
+p_desert_bandit_spawn_point|the deserts
+p_african_tribesman_spawn_point|the african tribesman
+p_wokou_spawn_point|the wokou
+p_indu_spawn_point|the indu
+p_indian_spawn_point|the indian
+p_outpost_1|Outpost
+p_outpost_2|Outpost
+p_fort|Fort
+p_zhai|My Village

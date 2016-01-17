@@ -1,0 +1,403 @@
+﻿p_zendar|禅 达 
+p_town_1|伦 敦 
+p_town_2|斯 德 哥 尔 摩 
+p_town_3|巴 黎 
+p_town_4|波 尔 多 
+p_town_5|塞 维 利 亚 
+p_town_6|那 不 勒 斯 
+p_town_7|维 也 纳 
+p_town_8|法 兰 克 福 
+p_town_9|克 拉 科 夫 
+p_town_10|莫 斯 科 
+p_town_11|威 尼 斯 
+p_town_12|罗 马 
+p_town_13|阿 尔 及 尔 
+p_town_14|的 黎 波 里 
+p_town_15|库 兰 
+p_town_16|西 安 府 
+p_town_17|应 天 府 
+p_town_18|顺 天 府 
+p_town_19|君 士 坦 丁 堡 
+p_town_20|开 罗 
+p_town_21|耶 路 撒 冷 
+p_town_22|巴 格 达 
+p_town_23|京 都 
+p_town_24|德 里 
+p_town_25|卡 法 
+p_town_26|阿 斯 塔 纳 
+p_town_27|里 斯 本 
+p_town_28|特 诺 奇 提 特 兰 
+p_town_29|巴 塞 罗 那 
+p_town_30|约 克 
+p_town_31|马 赛 
+p_town_32|奥 斯 陆 
+p_town_33|维 尔 纽 斯 
+p_town_34|吕 贝 克 
+p_town_35|安 卡 拉 
+p_town_36|阿 勒 颇 
+p_town_37|斯 摩 林 斯 克 
+p_town_38|喀 布 尔 
+p_town_39|春 佩 
+p_town_40|汉 城 
+p_town_41|荆 州 府 
+p_town_42|阿 克 苏 
+p_town_43|爱 丁 堡 
+p_castle_1|伯 明 翰 
+p_castle_2|布 里 斯 托 尔 
+p_castle_3|都 柏 林 
+p_castle_4|林 雪 坪 
+p_castle_5|哥 本 哈 根 
+p_castle_6|弗 伦 斯 堡 
+p_castle_7|哥 德 堡 
+p_castle_8|鲁 昂 
+p_castle_9|雷 恩 
+p_castle_10|图 卢 兹 
+p_castle_11|马 德 里 
+p_castle_12|巴 伦 西 亚 
+p_castle_13|希 洪 
+p_castle_14|米 兰 
+p_castle_15|巴 勒 莫 
+p_castle_16|阿 姆 斯 特 丹 
+p_castle_17|佛 罗 伦 萨 
+p_castle_18|拉 古 萨 
+p_castle_19|伊 拉 克 利 翁 
+p_castle_20|尼 科 西 亚 
+p_castle_21|伯 尔 尼 
+p_castle_22|汉 堡 
+p_castle_23|莱 比 锡 
+p_castle_24|布 拉 格 
+p_castle_25|萨 格 拉 布 
+p_castle_26|华 沙 
+p_castle_27|波 兹 南 
+p_castle_28|基 辅 
+p_castle_29|维 尔 杨 迪 
+p_castle_30|勒 热 夫 
+p_castle_31|萨 拉 托 夫 
+p_castle_32|喀 山 
+p_castle_33|佩 斯 
+p_castle_34|雅 典 
+p_castle_35|布 加 勒 斯 特 
+p_castle_36|米 拉 斯 
+p_castle_37|尼 西 亚 
+p_castle_38|大 不 里 士 
+p_castle_39|凯 瑟 里 
+p_castle_40|大 马 士 革 
+p_castle_41|特 拉 布 宗 
+p_castle_42|塞 萨 洛 尼 基 
+p_castle_43|德 黑 兰 
+p_castle_44|梁 赞 
+p_castle_45|阿 尔 什 巴 德 
+p_castle_46|伊 斯 法 罕 
+p_castle_47|克 尔 曼 
+p_castle_48|呼 和 浩 特 
+p_castle_49|温 都 尔 汗 
+p_castle_50|科 布 多 
+p_castle_51|哈 密 
+p_castle_52|卡 干 布 各 达 
+p_castle_53|成 都 府 
+p_castle_54|济 南 府 
+p_castle_55|泉 州 府 
+p_castle_56|襄 阳 府 
+p_castle_57|宁 夏 卫 
+p_castle_58|太 原 府 
+p_castle_59|安 积 
+p_castle_60|佐 贺 
+p_castle_61|备 中 
+p_castle_62|非 斯 
+p_castle_63|突 尼 斯 
+p_castle_64|奥 兰 
+p_castle_65|瓦 科 
+p_castle_66|基 亚 哈 
+p_castle_67|肯 塔 基 
+p_castle_68|哈 瓦 那 
+p_castle_69|波 尔 图 
+p_castle_70|马 德 拉 
+p_castle_71|叶 迪 库 什 勒 
+p_castle_72|昌 迪 加 尔 
+p_castle_73|斋 普 尔 
+p_castle_74|坎 普 尔 
+p_castle_75|曼 德 勒 
+p_castle_76|前 江 
+p_castle_77|河 内 
+p_castle_78|光 州 
+p_castle_79|平 壤 
+p_castle_80|双 城 卫 
+p_castle_81|撒 叉 河 卫 
+p_castle_82|努 尔 干 都 司 
+p_castle_83|卡 拉 甘 达 
+p_castle_84|阿 特 劳 
+p_castle_85|塞 万 斯 托 
+p_castle_86|托 兰 
+p_castle_87|特 瓦 坎 
+p_castle_88|米 科 特 兰 
+p_castle_89|坎 佩 克 
+p_castle_90|蒂 卡 尔 
+p_castle_91|韦 拉 克 鲁 斯 
+p_castle_92|亚 速 尔 
+p_castle_93|卡 里 利 亚 
+p_castle_94|苏 特 
+p_castle_95|第 戎 
+p_castle_96|纽 伦 堡 
+p_castle_97|罗 兹 
+p_castle_98|闲 置 城 堡
+p_castle_99|切 尔 卡 瑟 
+p_castle_100|塔 尔 图 
+p_castle_101|阿 伯 丁 
+p_castle_102|罗 得 
+p_castle_103|普 里 什 蒂 纳 
+p_castle_104|班 西 亚 
+p_castle_105|亚 历 山 大 
+p_castle_106|阿 里 什 
+p_castle_107|乌 思 藏 都 司 
+p_castle_108|南 宁 府 
+p_castle_109|辽 东 都 司 
+p_castle_110|马 萨 瓦 
+p_castle_111|马 基 尔 廷 
+p_castle_112|索 法 拉 
+p_castle_113|好 望 角 
+p_castle_114|卢 果 
+p_castle_115|圣 阿 玛 鲁 
+p_castle_116|巴 巴 多 斯 
+p_castle_117|伊 瓦 格 
+p_castle_118|基 多 
+p_castle_119|马 拉 喀 什 
+p_castle_120|哈 萨 
+p_castle_121|亚 丁 
+p_castle_122|马 斯 喀 特 
+p_castle_123|雷 克 雅 未 克 
+p_castle_124|文 莱 
+p_castle_125|巴 伊 亚 
+p_castle_126|登 迪 
+p_castle_127|库 玛 西 
+p_castle_128|加 布 
+p_castle_129|内 刚 果 
+p_castle_130|葛 塔 干 
+p_castle_131|哈 马 尔 
+p_castle_132|越 前 
+p_castle_133|丘 卢 卡 
+p_castle_134|休 伦 
+p_castle_135|果 阿 
+p_village_1|兰 开 斯 特 
+p_village_2|科 克 
+p_village_3|诺 丁 汉 
+p_village_4|南 安 普 顿 
+p_village_5|福 克 斯 通 
+p_village_6|诺 里 奇 
+p_village_7|奥 尔 
+p_village_8|加 的 斯 
+p_village_9|科 林 斯 
+p_village_10|南 特 
+p_village_11|奥 尔 良 
+p_village_12|斯 科 普 里  
+p_village_13|厄 尔 
+p_village_14|亚 眠 
+p_village_15|兰 斯 
+p_village_16|耶 夫 勒 
+p_village_17|阿 尔 维 卡 
+p_village_18|基 洛 夫 
+p_village_19|奔 萨  
+p_village_20|沃 洛 格 达 
+p_village_21|里 加 
+p_village_22|图 拉 
+p_village_23|帕 伦 西 亚 
+p_village_24|瓜 达 拉 哈 拉 
+p_village_25|萨 拉 戈 萨 
+p_village_26|热 那 亚 城 郊 
+p_village_27|利 卡 塔 
+p_village_28|克 森 扎 
+p_village_29|布 林 迪 西 
+p_village_30|博 洛 尼 亚 城 郊 
+p_village_31|维 罗 纳 
+p_village_32|波 带 罗 内 
+p_village_33|地 拉 那 
+p_village_34|罗 西 姆 诺 
+p_village_35|利 马 索 尔 
+p_village_36|博 尔 塞 纳 
+p_village_37|阿 布 鲁 佐 
+p_village_38|美 因 茨 
+p_village_39|安 特 卫 普  
+p_village_40|安 克 拉 姆 
+p_village_41|波 恩 
+p_village_42|奥 格 斯 
+p_village_43|比 尔 森 
+p_village_44|慕 尼 黑  
+p_village_45|布 拉 迪 斯 
+p_village_46|杰 尔 
+p_village_47|克 鲁 日 
+p_village_48|索 菲 亚  
+p_village_49|维 斯 比 
+p_village_50|斯 塔 万 格 
+p_village_51|维 泽 
+p_village_52|泰 基 尔 达 
+p_village_53|士 麦 那 
+p_village_54|安 塔 利 亚  
+p_village_55|巴 统 
+p_village_56|阿 达 纳 
+p_village_57|宁 波 
+p_village_58|合 肥 
+p_village_59|延 安 
+p_village_60|乌 海 
+p_village_61|艾 拉 泽 
+p_village_62|盐 城 
+p_village_63|贵 阳 
+p_village_64|萨 摩 
+p_village_65|东 番 
+p_village_66|土 佐 
+p_village_67|三 河 
+p_village_68|卡 利 什 
+p_village_69|利 沃 夫
+p_village_70|文 尼 察 
+p_village_71|格 但 斯 克 
+p_village_72|布 列 斯 特 
+p_village_73|马 拉 加  
+p_village_74|库 尔 斯 克  
+p_village_75|特 维 尔  
+p_village_76|加 普 
+p_village_77|马 尔 默 
+p_village_78|蒙 特 利 埃 
+p_village_79|基 罗 杨 福 斯 克  
+p_village_80|里 昂 
+p_village_81|阿 勒 泰 
+p_village_82|额 济 纳 
+p_village_83|大 同 
+p_village_84|赛 音 山 达 
+p_village_85|乔 巴 
+p_village_86|布 尔 干 
+p_village_87|巴 彦 淖 尔 
+p_village_88|沈 阳 
+p_village_89|山 海 关 
+p_village_90|邯 郸 
+p_village_91|临 汾 
+p_village_92|加 沙  
+p_village_93|法 尤 姆 
+p_village_94|汉 中 
+p_village_95|遂 州 
+p_village_96|南 阳 
+p_village_97|基 尔 库 克  
+p_village_98|贝 鲁 特 港 口 
+p_village_99|布 什 尔  
+p_village_100|设 拉 子  
+p_village_101|艾 德 萨  
+p_village_102|乌 季 达 
+p_village_103|特 莱 姆 森 
+p_village_104|贝 贾 亚 
+p_village_105|杰 勒 法 
+p_village_106|凯 鲁 万  
+p_village_107|加 夫 萨 
+p_village_108|土 库 曼 巴 希 
+p_village_109|伊 玛 目 鲁 德 
+p_village_110|亚 兹 德  
+p_village_111|科 曼 奇 
+p_village_112|肯 尼 
+p_village_113|波 瓦 坦 
+p_village_114|圣 奥 古 斯 丁 
+p_village_115|休 达 
+p_village_116|瓜 达 
+p_village_117|布 朗 库 
+p_village_118|阿 姆 利 木 
+p_village_119|焦 特 布 尔 
+p_village_120|勒 克 劳 
+p_village_121|安 拉 阿 巴 德 
+p_village_122|廊 开 
+p_village_123|景 洪 
+p_village_124|怡 保 
+p_village_125|陆 奥 
+p_village_126|咸 兴 
+p_village_127|釜 山 
+p_village_128|白 城 
+p_village_129|海 西 女 真 聚 落 
+p_village_130|野 人 女 真 聚 落 
+p_village_131|热 兹 卡 兹 干 
+p_village_132|巴 普 洛 达 尔 
+p_village_133|塞 米 巴 拉 
+p_village_134|克 里 米 亚 
+p_village_135|扎 波 罗 齐 亚 
+p_village_136|亚 速 
+p_village_137|帕 丘 卡 
+p_village_138|蒂 科 斯 特 拉 
+p_village_139|塔 尼 古 卡 奇 
+p_village_140|特 夸 特 佩 克
+p_village_141|殖 民 者 聚 集 地 
+p_village_142|乌 斯 马 尔 
+p_village_143|乌 斯 玛 
+p_village_144|卢 戈 
+p_village_145|萨 萨 里 
+p_village_146|莫 尔 莱 
+p_village_147|普 劳 恩 
+p_village_148|尼 什 
+p_village_149|斯 米 拉 
+p_village_150|拉 多 姆 
+p_village_151|卢 茨 克 
+p_village_152|灵 山 
+p_village_153|那 曲 卡 
+p_village_154|大 理 
+p_village_155|米 苏 拉 塔 
+p_village_156|拜 耳 迪 耶 
+p_village_157|玛 特 鲁 
+p_village_158|亚 喀 巴 
+p_village_159|纳 勒 汉 
+p_village_160|伊 犁 
+p_village_161|高 丝 
+p_village_162|赛 奥 罗 格 斯 
+p_village_163|奥 本 
+p_village_164|莱 尔 格 
+p_village_165|加 尔 丁 
+p_village_166|海 阳 
+p_village_167|巴 林 
+p_village_168|阿 西 尔 
+p_village_169|多 法 尔 
+p_village_170|塔 朱 拉 
+p_village_171|木 骨 都 束 
+p_village_172|麻 撒 密 纪 
+p_village_173|开 普 
+p_village_174|刚 果 
+p_village_175|安 提 瓜 
+p_village_176|圣 多 美 
+p_village_177|内 瓦 
+p_village_178|奥 雷 亚 纳 
+p_village_179|贝 沙 尔 
+p_village_180|卑 尔 根 
+p_village_181|格 陵 兰 
+p_village_182|苏 利 兰 
+p_village_183|加 奥 
+p_village_184|巴 特 
+p_village_185|奥 约 
+p_village_186|旧 港 
+p_village_187|拉 穆 
+p_village_188|乌 干 达 
+p_village_189|洛 哈 
+p_village_190|奎 德 斯 
+p_village_191|柯 钦 
+p_village_192|伊 贺 
+p_village_193|荒 废 村 庄
+p_gate1|赫 布 亚 岛 
+p_gate2|圣 安 娜 港 
+p_dungeon1|马 奥 的 庄 园 
+p_dungeon2|钓 鱼 屿 
+p_dungeon3|百 慕 大 
+p_dungeon4|马 里 的 遗 址 
+p_dungeon5|沙 漠 里 的 遗 迹 
+p_dungeon8|湖 广 布 政 使 司 
+p_dungeon9|安 条 克 的 旅 店 （幻 境 ）
+p_dungeon10|哥 萨 克 人 的 城 堡 
+p_dungeon11|古 代 竞 技 场 
+p_salt_mine|盐 矿 
+p_four_ways_inn|四 方 客 栈 
+p_test_scene|1258年 12月 24日 2点 
+p_battlefields|战 场 
+p_dhorak_keep|多 拉 克 要 塞 
+p_training_ground|训 练 场 
+p_training_ground_1|训 练 场 
+p_training_ground_2|训 练 场 
+p_training_ground_3|训 练 场 
+p_training_ground_4|训 练 场 
+p_training_ground_5|训 练 场 
+p_steppe_bandit_spawn_point|草 原 
+p_taiga_bandit_spawn_point|雪 原 
+p_forest_bandit_spawn_point|森 林 
+p_mountain_bandit_spawn_point|高 地 
+p_sea_raider_spawn_point_1|海 岸 
+p_sea_raider_spawn_point_2|海 岸 
+p_desert_bandit_spawn_point|沙 漠 
+p_outpost_1|驻 扎 地  
+p_outpost_2|拓 荒 营 地 
